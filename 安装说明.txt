@@ -1,0 +1,21 @@
+OpenClaw 国内环境安装说明
+=============================
+
+【快速安装步骤】
+1. 右键点击 install-openclaw.ps1
+2. 选择「使用PowerShell运行」
+3. 按照屏幕提示操作即可
+
+【注意事项】
+⚠️ 必须以管理员身份运行脚本
+⚠️ 安装过程需要联网，建议保持网络畅通
+⚠️ 如果遇到安全提示，选择「运行」即可
+
+【安装完成后】
+✅ 运行 openclaw help 查看命令帮助
+✅ 运行 openclaw gateway start 启动网关
+✅ 工作目录默认在 C:\.openclaw\workspace
+
+【问题反馈】
+如果安装遇到问题，请截图错误信息到社区反馈：
+https://discord.com/invite/clawd
