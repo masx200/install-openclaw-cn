@@ -11,3 +11,4 @@ Thumbs.db
 # 配置文件
 config.json
 .env
+.claude/settings.local.json
